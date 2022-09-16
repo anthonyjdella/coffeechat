@@ -203,11 +203,11 @@
             "company": "Twilio",
             "city": "Seattle",
             "country": "United States of America",
-            "website": "",
+            "website": "https://anthonydellavecchia.com/",
             "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/anthonydellavecchia",
             "twitter": "https://twitter.com/anthonyjdella",
-            "scheduling": "https://calendly.com/anthonyjdella/chat",
+            "scheduling": "https://cal.com/anthonyjdella/15min",
             "online-only": false,
             "topics": [
                 "Software Engineering",
@@ -218,7 +218,9 @@
                 "Starting in Tech",
                 "Job Search",
                 "Mental Health",
-                "Imposter Syndrome"
+                "Imposter Syndrome",
+                "First Tech Job",
+                "College Advise"
             ]
         },
         {
